@@ -10,7 +10,7 @@ alunni = []
 S=" "
 n=input ("quanti studenti vuoi inserire")
 n=int (n)
-for a in range(n)
+for a in range(n):
  	nome =  input ("inserisci nome")
 	cognome = input ("inserisci cognome")
 	classe = input ("inserisci classe ")
