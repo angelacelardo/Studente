@@ -1,8 +1,8 @@
 class studente:
       def __init__ (self,nome,cognome,classe):
-          self.nome=nome
-	  self.cognome=cognome
-	  self.classe=classe
+		self.nome=nome
+		self.cognome=cognome
+		self.classe=classe
 
 
 
