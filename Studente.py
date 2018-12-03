@@ -14,7 +14,7 @@ for a in range(n)
  	nome =  input ("inserisci nome")
 	cognome = input ("inserisci cognome")
 	classe = input ("inserisci classe ")
-        S=studente(nome,cognome,classe)
+	S=studente(nome,cognome,classe)
 	alunni.append(S)
 for alunno in alunni:
  	print (alunno.nome)
